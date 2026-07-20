@@ -17,7 +17,7 @@
 
 <br>
 
-<h3 align="center">Software Engineering Intern | Full-Stack Developer</h3>
+<h3 align="center">Software Engineering Intern @metacognition </h3>
 
 <p align="center">
   Building products from scratch, engineering robust backend systems, and exploring AI integration.<br>
